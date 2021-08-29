@@ -8,7 +8,7 @@ import OnlineUser from './components/OnlineUser';
 import MessagesControl from './components/MessagesControl';
 
 
-const socket = io(`https://ams0503-demo.herokuapp.com/`)
+const socket = io(`https://server-chat-app-demo.herokuapp.com/`)
 
 function App () {
 
